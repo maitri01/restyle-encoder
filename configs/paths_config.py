@@ -1,5 +1,5 @@
 dataset_paths = {
-	'ffhq': 'data/faces-dataset-small/faces_dataset_small/',
+	'ffhq': 'data/content/faces-dataset-small/faces_dataset_small/',
 	'celeba_test': '',
 
 	'cars_train': '',
